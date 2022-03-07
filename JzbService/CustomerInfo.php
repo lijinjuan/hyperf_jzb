@@ -1,5 +1,5 @@
 <?php
-namespace JabSerivce;
+namespace JzbSerivce;
 
 class CustomerInfo
 {
