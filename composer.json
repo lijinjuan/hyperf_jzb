@@ -8,12 +8,11 @@
         {"name": "RD", "email": "1186747596@qq.com"}
     ],
     "require": {
-        "php": ">=7.1.0"
+        "php": ">=7.4.0"
     },
     "autoload": {
         "psr-4": { 
-            "JzbConfig\\": "JzbConfig/",
-           
+            "JzbConfig\\": "JzbConfig/"
         }
     }
 }
